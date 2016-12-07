@@ -1,0 +1,6 @@
+### Código para acender LED ###
+
+v0.1 --> Adicionado código funcional. Esse teve a interface removida, para que o projeto se tornasse mais facil de desenvolver.
+Está versão do código acende todos os LEDs porém, um por vez.
+
+v0.2 --> Adicionado Loop para piscar os LEDs, além de acrescentar mais itens ao menu. Correção dos endereços do LED no programa.
